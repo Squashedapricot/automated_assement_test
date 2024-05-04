@@ -7,4 +7,4 @@
 
 ## Database (Haven't chosen one yet but leaning towards mariaDB)
 
-## Restricting user from exiting full screen mode,changing tab or minimising can be handle by browser apis
+## Restricting user from exiting full screen mode,changing tab or minimising can be handle by browser's API's
