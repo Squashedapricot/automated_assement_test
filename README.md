@@ -1,12 +1,10 @@
 # Components of the website
-## 1. Hardware (Patched with proper firmware)
 
-## 2. Virtualized hardware with level 1 hypervisior (promox,xepng)
+## Ngnix Docker container
+### It will handle website deployment and load balancing 
 
-## 3. Operating System any Linux Distribution that is properly maintained or window server if you're insane
+### Looking in to more info
 
-## 4. With a Linux VM preferably a light weight os with limited services
+## Database (Haven't chosen one yet but leaning towards mariaDB)
 
-## 5. Host website on a ngnix container
-
-## 6. 
+## Restricting user from exiting full screen mode,changing tab or minimising can be handle by browser apis
