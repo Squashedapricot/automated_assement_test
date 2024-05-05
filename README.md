@@ -23,9 +23,6 @@ The Test Automation System consists of the following key components:
 
 ### 3.1. High-Level Architecture Diagram
 
-```
-
-```
 
 ### 3.2. Components Description
 
