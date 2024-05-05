@@ -56,7 +56,17 @@ User ID
 Solved questions
 Correct Answers
 Score
+Marked for cheating
  ^B4GrmNbx
+
+Function to clear 
+user data 
+and mark failed 
+if user tries to 
+exit full screen, 
+switch tabs, 
+tries to take 
+a screen shot ^kp8I7b33
 
 # Embedded files
 c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
@@ -81,12 +91,12 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -679.5012382382358,
-			"y": -532.6087784887142,
+			"x": -679.857494529727,
+			"y": -532.3475473099063,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 23.002476476471678,
-			"height": 17.38943197742835,
+			"width": 23.71498905945408,
+			"height": 16.8669696198126,
 			"seed": 14045,
 			"groupIds": [],
 			"frameId": null,
@@ -313,8 +323,8 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 		},
 		{
 			"type": "rectangle",
-			"version": 118,
-			"versionNonce": 1755394275,
+			"version": 119,
+			"versionNonce": 760260067,
 			"isDeleted": false,
 			"id": "tqqRNKUxl9jVS7FZ0J_Gs",
 			"fillStyle": "solid",
@@ -339,9 +349,13 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 				{
 					"id": "cWIdpa2gUpLurn58Z1hKV",
 					"type": "arrow"
+				},
+				{
+					"id": "VRC0nVHtZuyxKB9MxcLwe",
+					"type": "arrow"
 				}
 			],
-			"updated": 1714905192552,
+			"updated": 1714906062615,
 			"link": null,
 			"locked": false
 		},
@@ -1349,8 +1363,8 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 		},
 		{
 			"type": "rectangle",
-			"version": 480,
-			"versionNonce": 772102253,
+			"version": 576,
+			"versionNonce": 1353594125,
 			"isDeleted": false,
 			"id": "XuPNxLBtToQEgJoUDNimc",
 			"fillStyle": "solid",
@@ -1363,8 +1377,8 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 			"y": 161.34698997882776,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 172.06090803330102,
-			"height": 211.32041921034426,
+			"width": 230.24272621511938,
+			"height": 301.32041921034426,
 			"seed": 1219133987,
 			"groupIds": [],
 			"frameId": null,
@@ -1372,7 +1386,7 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1714905480651,
+			"updated": 1714906031352,
 			"link": null,
 			"locked": false
 		},
@@ -1450,8 +1464,8 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 		},
 		{
 			"type": "text",
-			"version": 322,
-			"versionNonce": 143044461,
+			"version": 362,
+			"versionNonce": 614010083,
 			"isDeleted": false,
 			"id": "B4GrmNbx",
 			"fillStyle": "solid",
@@ -1464,8 +1478,8 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 			"y": 170.40504870175414,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 154.96487426757812,
-			"height": 214.87564403040884,
+			"width": 188.98992919921875,
+			"height": 238.75071558934314,
 			"seed": 1307282083,
 			"groupIds": [],
 			"frameId": null,
@@ -1476,17 +1490,17 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 					"type": "arrow"
 				}
 			],
-			"updated": 1714905540984,
+			"updated": 1714906026399,
 			"link": null,
 			"locked": false,
 			"fontSize": 19.100057247147454,
 			"fontFamily": 1,
-			"text": "Solved Set\n\nID\nSet ID\nUser ID\nSolved questions\nCorrect Answers\nScore\n",
-			"rawText": "Solved Set\n\nID\nSet ID\nUser ID\nSolved questions\nCorrect Answers\nScore\n",
+			"text": "Solved Set\n\nID\nSet ID\nUser ID\nSolved questions\nCorrect Answers\nScore\nMarked for cheating\n",
+			"rawText": "Solved Set\n\nID\nSet ID\nUser ID\nSolved questions\nCorrect Answers\nScore\nMarked for cheating\n",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Solved Set\n\nID\nSet ID\nUser ID\nSolved questions\nCorrect Answers\nScore\n",
+			"originalText": "Solved Set\n\nID\nSet ID\nUser ID\nSolved questions\nCorrect Answers\nScore\nMarked for cheating\n",
 			"lineHeight": 1.25
 		},
 		{
@@ -1595,8 +1609,8 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 		},
 		{
 			"type": "arrow",
-			"version": 85,
-			"versionNonce": 1037785357,
+			"version": 125,
+			"versionNonce": 1816885379,
 			"isDeleted": false,
 			"id": "szGWQNQgdEcclW0bthuh3",
 			"fillStyle": "solid",
@@ -1609,7 +1623,7 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 			"y": -46.49034467318927,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 428.49695502360447,
+			"width": 448.368785565422,
 			"height": 204.77643955864886,
 			"seed": 1319944643,
 			"groupIds": [],
@@ -1618,7 +1632,7 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1714905540984,
+			"updated": 1714906026399,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1636,7 +1650,7 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 					0
 				],
 				[
-					428.49695502360447,
+					448.368785565422,
 					204.77643955864886
 				]
 			]
@@ -1692,6 +1706,251 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 					137.69001661037117
 				]
 			]
+		},
+		{
+			"type": "rectangle",
+			"version": 163,
+			"versionNonce": 1326844333,
+			"isDeleted": false,
+			"id": "fkDq9p-QdELQy8_zjyAxG",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -746.9866607866995,
+			"y": 212.23383789216848,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 362.72727272727275,
+			"height": 364.5454545454545,
+			"seed": 1040803053,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1714905776844,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "line",
+			"version": 68,
+			"versionNonce": 1902076717,
+			"isDeleted": false,
+			"id": "7bsPhMPzb-bylPMXfcON6",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 129.37697557693684,
+			"y": 234.05201971035035,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 170,
+			"height": 0,
+			"seed": 1522665283,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1714905786607,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					170,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 97,
+			"versionNonce": 596469357,
+			"isDeleted": false,
+			"id": "bjB1O8crIyNc7wCmJ__qm",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 358.88201073792675,
+			"y": 226.81794015603404,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 170,
+			"height": 0,
+			"seed": 1201159149,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1714905793882,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					170,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 199,
+			"versionNonce": 1396435789,
+			"isDeleted": false,
+			"id": "AwOdIie5Kgfou3c92AbxD",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 595.245647101563,
+			"y": 204.99975833785217,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 229.5858739299191,
+			"height": 0,
+			"seed": 330638883,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1714906038345,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					229.5858739299191,
+					0
+				]
+			]
+		},
+		{
+			"id": "kp8I7b33",
+			"type": "text",
+			"x": -689.7139335139725,
+			"y": 253.1429288012596,
+			"width": 257.0131267200817,
+			"height": 287.42321670184316,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 845227075,
+			"version": 445,
+			"versionNonce": 743205955,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1714906141860,
+			"link": null,
+			"locked": false,
+			"text": "Function to clear \nuser data \nand mark failed \nif user tries to \nexit full screen, \nswitch tabs, \ntries to take \na screen shot",
+			"rawText": "Function to clear \nuser data \nand mark failed \nif user tries to \nexit full screen, \nswitch tabs, \ntries to take \na screen shot",
+			"fontSize": 28.742321670184317,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Function to clear \nuser data \nand mark failed \nif user tries to \nexit full screen, \nswitch tabs, \ntries to take \na screen shot",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "VRC0nVHtZuyxKB9MxcLwe",
+			"type": "arrow",
+			"x": -473.35029715033585,
+			"y": 86.77929243762304,
+			"width": 97.2727272727272,
+			"height": 130,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1800878189,
+			"version": 73,
+			"versionNonce": 118515267,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1714906062615,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-97.2727272727272,
+					130
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "tqqRNKUxl9jVS7FZ0J_Gs",
+				"focus": -0.4621730562993721,
+				"gap": 1.6933549376230417
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
@@ -1709,10 +1968,10 @@ c81866a2b0d5ef7fc672e8bb523c4a04fb431fd0: [[Guided.excalidraw]]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 778.8048426048813,
-		"scrollY": 1138.9096280169222,
+		"scrollX": 942.4412062412449,
+		"scrollY": 456.1042302896496,
 		"zoom": {
-			"value": 0.55
+			"value": 1.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
